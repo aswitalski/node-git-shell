@@ -1,0 +1,24 @@
+{
+  "name": "node-git-shell",
+  "version": "0.0.0",
+  "description": "Node git shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aswitalski/node-git-shell.git"
+  },
+  "keywords": [
+    "node",
+    "git",
+    "shell"
+  ],
+  "author": "Aleksander Świtalski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aswitalski/node-git-shell/issues"
+  },
+  "homepage": "https://github.com/aswitalski/node-git-shell#readme"
+}
